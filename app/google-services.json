@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "238218605747",
+    "firebase_url": "https://book-movie-ac259-default-rtdb.firebaseio.com",
+    "project_id": "book-movie-ac259",
+    "storage_bucket": "book-movie-ac259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238218605747:android:5d400f234014734cd96cc6",
+        "android_client_info": {
+          "package_name": "com.devesh.smartshows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238218605747-7s86igotjichplg70uct8uc2fqkt387d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devesh.smartshows",
+            "certificate_hash": "91c285b5d59457cd5305e3dd4ebc781d9de9dc55"
+          }
+        },
+        {
+          "client_id": "238218605747-dag3u2mgfq5sj574c2c3qm395iabsmkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnhPohioeecbZErGLx49MeNVloVv1bhnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238218605747-dag3u2mgfq5sj574c2c3qm395iabsmkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
